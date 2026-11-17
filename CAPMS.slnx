@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CAPMS/CAPMS.vcxproj" Id="44644e8f-5fe9-46d2-b66d-a80855068d1c" />
+</Solution>
